@@ -1,2 +1,2 @@
-# Python_Advanced_May2022_Softuni
+# Python_Advanced
 Python_Advanced Exercises
