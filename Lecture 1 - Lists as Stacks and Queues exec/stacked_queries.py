@@ -1,6 +1,6 @@
 queries = int(input())
 stack = list()
-for i in range(queries):
+for _ in range(queries):
     command = input()
 
     if len(command.split()) > 1:
